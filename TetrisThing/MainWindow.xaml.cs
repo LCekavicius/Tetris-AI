@@ -42,7 +42,7 @@ namespace TetrisThing
 
         private readonly ImageSource[] pieceImages = new ImageSource[]
         {
-            new BitmapImage(new Uri("Assets/Block-Empty.png", UriKind.Relative)),
+            new BitmapImage(new Uri("Assets/Piece-Empty.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/IPiece.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/JPiece.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/LPiece.png", UriKind.Relative)),
